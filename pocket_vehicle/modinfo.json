@@ -2,7 +2,7 @@
   {
     "type": "MOD_INFO",
     "id": "pocket_vehicle",
-    "name": "ポケットカー",
+    "name": "変更 - ポケットカー",
     "authors": [ "tlshtivo053153" ],
     "description": "車両を全て折り畳み可能にします。",
     "category": "rebalance",
