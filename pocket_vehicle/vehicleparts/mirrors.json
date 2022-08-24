@@ -1,0 +1,18 @@
+[
+  {
+    "copy-from": "wing_mirror",
+    "id": "wing_mirror",
+    "type": "vehicle_part",
+    "name": { "str": "wing mirror" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "inboard_mirror",
+    "id": "inboard_mirror",
+    "type": "vehicle_part",
+    "name": { "str": "inboard mirror" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

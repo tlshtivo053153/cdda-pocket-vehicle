@@ -1,0 +1,115 @@
+[
+  {
+    "copy-from": "seat",
+    "id": "seat",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "seat_windshield",
+    "id": "seat_windshield",
+    "type": "vehicle_part",
+    "looks_like": "reclining_seat",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "seat_leather",
+    "id": "seat_leather",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "seat_windshield_leather",
+    "id": "seat_windshield_leather",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "reclining_seat",
+    "id": "reclining_seat",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "reclining_seat_windshield",
+    "id": "reclining_seat_windshield",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "reclining_seat_leather",
+    "id": "reclining_seat_leather",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "reclining_seat_windshield_leather",
+    "id": "reclining_seat_windshield_leather",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "seat_back",
+    "id": "seat_back",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "seat_back_leather",
+    "id": "seat_back_leather",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "saddle",
+    "id": "saddle",
+    "type": "vehicle_part",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "saddle_pedal",
+    "id": "saddle_pedal",
+    "type": "vehicle_part",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "saddle_motor",
+    "id": "saddle_motor",
+    "type": "vehicle_part",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "saddle_scooter",
+    "id": "saddle_scooter",
+    "type": "vehicle_part",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "folding_seat",
+    "id": "folding_seat",
+    "type": "vehicle_part",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "metal_bench",
+    "id": "metal_bench",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "copy-from": "engine_electric_tiny",
+    "id": "engine_electric_tiny",
+    "type": "vehicle_part",
+    "name": { "str": "tiny electric motor" },
+    "looks_like": "motor_small",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "engine_electric_small",
+    "id": "engine_electric_small",
+    "type": "vehicle_part",
+    "name": { "str": "small electric motor" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "engine_electric",
+    "id": "engine_electric",
+    "type": "vehicle_part",
+    "name": { "str": "electric motor" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "engine_electric_large",
+    "id": "engine_electric_large",
+    "type": "vehicle_part",
+    "name": { "str": "large electric motor" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "engine_electric_enhanced",
+    "id": "engine_electric_enhanced",
+    "type": "vehicle_part",
+    "name": { "str": "enhanced electric motor" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "engine_electric_super",
+    "id": "engine_electric_super",
+    "type": "vehicle_part",
+    "name": { "str": "super electric motor" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "engine_electric_train",
+    "id": "engine_electric_train",
+    "type": "vehicle_part",
+    "name": { "str": "1300hp electric train engine" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

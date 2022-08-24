@@ -1,0 +1,18 @@
+[
+  {
+    "copy-from": "foot_pedals",
+    "id": "foot_pedals",
+    "type": "vehicle_part",
+    "name": { "str": "foot pedals" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "hand_rims",
+    "id": "hand_rims",
+    "type": "vehicle_part",
+    "name": { "str": "hand rims" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "copy-from": "alternator_bicycle",
+    "id": "alternator_bicycle",
+    "type": "vehicle_part",
+    "name": { "str": "bicycle alternator" },
+    "looks_like": "alternator_motorbike",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "alternator_motorbike",
+    "id": "alternator_motorbike",
+    "type": "vehicle_part",
+    "name": { "str": "motorbike alternator" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "alternator_car",
+    "id": "alternator_car",
+    "type": "vehicle_part",
+    "name": { "str": "car alternator" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "alternator_truck",
+    "id": "alternator_truck",
+    "type": "vehicle_part",
+    "name": { "str": "truck alternator" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "generator_7500w",
+    "id": "generator_7500w",
+    "type": "vehicle_part",
+    "name": { "str": "7.5kW generator" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

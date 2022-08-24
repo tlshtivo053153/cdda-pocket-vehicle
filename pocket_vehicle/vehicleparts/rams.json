@@ -1,0 +1,99 @@
+[
+  {
+    "copy-from": "ram_alloy",
+    "id": "ram_alloy",
+    "type": "vehicle_part",
+    "name": { "str": "superalloy ram" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "ram_hardsteel",
+    "id": "ram_hardsteel",
+    "type": "vehicle_part",
+    "name": { "str": "heavy steel ram" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "id": "ram_military_horizontal",
+    "copy-from": "ram_blaze",
+    "type": "vehicle_part",
+    "name": { "str": "military composite ram" },
+    "item": "mil_plate",
+    "color": "green",
+    "broken_color": "green",
+    "durability": 875,
+    "breaks_into": [
+      { "item": "steel_lump", "count": [ 4, 6 ] },
+      { "item": "steel_chunk", "count": [ 4, 6 ] },
+      { "item": "scrap", "count": [ 4, 6 ] },
+      { "item": "ceramic_armor", "count": [ 0, 4 ] }
+    ],
+    "requirements": {
+      "install": { "skills": [ [ "mechanics", 6 ] ], "time": "60 m", "using": [ [ "welding_standard", 5 ] ] },
+      "removal": { "skills": [ [ "mechanics", 4 ] ], "time": "30 m", "using": [ [ "vehicle_weld_removal", 1 ] ] },
+      "repair": { "skills": [ [ "mechanics", 7 ] ], "time": "60 m", "using": [ [ "repair_welding_standard", 3 ] ] }
+    },
+    "folded_volume": "1 ml",
+    "flags": [ "NO_REPAIR", "FOLDABLE" ],
+    "damage_reduction": { "all": 75, "bullet": 131 }
+  },
+  {
+    "copy-from": "ram_spiked",
+    "id": "ram_spiked",
+    "type": "vehicle_part",
+    "name": { "str": "spiked ram" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "ram_steel",
+    "id": "ram_steel",
+    "type": "vehicle_part",
+    "name": { "str": "steel ram" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "ram_wood",
+    "id": "ram_wood",
+    "type": "vehicle_part",
+    "name": { "str": "wooden ram" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "ram_chitin",
+    "id": "ram_chitin",
+    "type": "vehicle_part",
+    "name": { "str": "chitin ram" },
+    "looks_like": "ram_wood",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "ram_acidchitin",
+    "id": "ram_acidchitin",
+    "type": "vehicle_part",
+    "name": { "str": "biosilicified chitin ram" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "ram_mattress",
+    "id": "ram_mattress",
+    "type": "vehicle_part",
+    "name": { "str": "tied mattress" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "tearer",
+    "id": "tearer",
+    "type": "vehicle_part",
+    "name": { "str": "shredder" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

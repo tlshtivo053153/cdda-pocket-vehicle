@@ -1,0 +1,125 @@
+[
+  {
+    "copy-from": "door",
+    "id": "door",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "door_full",
+    "id": "door_full",
+    "type": "vehicle_part",
+    "looks_like": "door",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "cloth_flap_door",
+    "id": "cloth_flap_door",
+    "type": "vehicle_part",
+    "name": { "str": "cloth flap door" },
+    "looks_like": "door",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "cloth_curtain_door",
+    "id": "cloth_curtain_door",
+    "type": "vehicle_part",
+    "name": { "str": "cloth curtain door" },
+    "looks_like": "door",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "door_opaque",
+    "id": "door_opaque",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "door_opaque_full",
+    "id": "door_opaque_full",
+    "type": "vehicle_part",
+    "looks_like": "door_opaque",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "hddoor",
+    "id": "hddoor",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "hddoor_full",
+    "id": "hddoor_full",
+    "type": "vehicle_part",
+    "looks_like": "hddoor",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "hddoor_opaque",
+    "id": "hddoor_opaque",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "hddoor_opaque_full",
+    "id": "hddoor_opaque_full",
+    "type": "vehicle_part",
+    "looks_like": "hddoor_opaque",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "door_internal",
+    "id": "door_internal",
+    "type": "vehicle_part",
+    "name": { "str": "internal door" },
+    "looks_like": "door",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "hatch",
+    "id": "hatch",
+    "type": "vehicle_part",
+    "name": { "str": "hatch" },
+    "looks_like": "door",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "hatch_opaque",
+    "id": "hatch_opaque",
+    "type": "vehicle_part",
+    "name": { "str": "opaque hatch" },
+    "looks_like": "door_opaque",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "hdhatch",
+    "id": "hdhatch",
+    "type": "vehicle_part",
+    "name": { "str": "heavy-duty hatch" },
+    "looks_like": "hatch",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "hdhatch_opaque",
+    "id": "hdhatch_opaque",
+    "type": "vehicle_part",
+    "name": { "str": "heavy-duty opaque hatch" },
+    "looks_like": "hatch_opaque",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

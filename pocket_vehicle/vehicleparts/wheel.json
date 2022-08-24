@@ -1,0 +1,302 @@
+[
+  {
+    "copy-from": "wheel_mount_wood",
+    "id": "wheel_mount_wood",
+    "type": "vehicle_part",
+    "name": { "str": "wooden wheel mount" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_mount_wood_steerable",
+    "id": "wheel_mount_wood_steerable",
+    "type": "vehicle_part",
+    "name": { "str": "wooden wheel mount (steerable)" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_mount_light",
+    "id": "wheel_mount_light",
+    "type": "vehicle_part",
+    "name": { "str": "light wheel mount" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_mount_light_steerable",
+    "id": "wheel_mount_light_steerable",
+    "type": "vehicle_part",
+    "name": { "str": "light wheel mount (steerable)" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_mount_medium",
+    "id": "wheel_mount_medium",
+    "type": "vehicle_part",
+    "name": { "str": "wheel hub assembly" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_mount_medium_steerable",
+    "id": "wheel_mount_medium_steerable",
+    "type": "vehicle_part",
+    "name": { "str": "wheel hub assembly (steerable)" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_mount_heavy",
+    "id": "wheel_mount_heavy",
+    "type": "vehicle_part",
+    "name": { "str": "heavy wheel hub assembly" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_mount_heavy_steerable",
+    "id": "wheel_mount_heavy_steerable",
+    "type": "vehicle_part",
+    "name": { "str": "heavy wheel hub assembly (steerable)" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "rail_wheel",
+    "id": "rail_wheel",
+    "type": "vehicle_part",
+    "name": { "str": "rail wheel" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "rail_wheel_steerable",
+    "id": "rail_wheel_steerable",
+    "type": "vehicle_part",
+    "name": { "str": "rail wheel (steerable)" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "rail_wheel_small_pair",
+    "id": "rail_wheel_small_pair",
+    "type": "vehicle_part",
+    "name": { "str": "pair of small rail wheels" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "roller_drum",
+    "id": "roller_drum",
+    "type": "vehicle_part",
+    "name": { "str": "roller drum" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel",
+    "id": "wheel",
+    "type": "vehicle_part",
+    "name": { "str": "wheel" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_slick",
+    "id": "wheel_slick",
+    "type": "vehicle_part",
+    "name": { "str": "racing slick" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_armor",
+    "id": "wheel_armor",
+    "type": "vehicle_part",
+    "name": { "str": "armored wheel" },
+    "looks_like": "wheel",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_barrow",
+    "id": "wheel_barrow",
+    "type": "vehicle_part",
+    "name": { "str": "wheelbarrow wheel" },
+    "looks_like": "wheel_bicycle",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_bicycle",
+    "id": "wheel_bicycle",
+    "type": "vehicle_part",
+    "looks_like": "wheel",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_bicycle_abstract",
+    "id": "wheel_bicycle_rear",
+    "type": "vehicle_part",
+    "looks_like": "wheel_bicycle",
+    "symbol": "|",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_bicycle_or",
+    "id": "wheel_bicycle_or",
+    "type": "vehicle_part",
+    "name": { "str": "off-road bicycle wheel" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_bicycle_abstract",
+    "id": "wheel_bicycle_or_rear",
+    "type": "vehicle_part",
+    "name": { "str": "off-road bicycle wheel" },
+    "looks_like": "wheel_bicycle_rear",
+    "item": "wheel_bicycle_or",
+    "contact_area": 36,
+    "wheel_type": "off-road",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_caster",
+    "id": "wheel_caster",
+    "type": "vehicle_part",
+    "name": { "str": "casters" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_10",
+    "id": "wheel_10",
+    "type": "vehicle_part",
+    "name": { "str": "wheels" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_motorbike",
+    "id": "wheel_motorbike",
+    "type": "vehicle_part",
+    "looks_like": "wheel",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_motorbike_abstract",
+    "id": "wheel_motorbike_rear",
+    "type": "vehicle_part",
+    "looks_like": "wheel",
+    "symbol": "o",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_motorbike_or",
+    "id": "wheel_motorbike_or",
+    "type": "vehicle_part",
+    "name": { "str": "off-road motorbike wheel" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_motorbike_abstract",
+    "id": "wheel_motorbike_or_rear",
+    "type": "vehicle_part",
+    "name": { "str": "off-road motorbike wheel" },
+    "item": "wheel_motorbike_or",
+    "contact_area": 60,
+    "wheel_type": "off-road",
+    "damage_reduction": { "bash": 10, "cut": 8, "stab": 4 },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_small",
+    "id": "wheel_small",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_small_scooter",
+    "id": "wheel_small_scooter",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_small_abstract",
+    "id": "wheel_small_scooter_rear",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_tricycle",
+    "id": "wheel_tricycle",
+    "type": "vehicle_part",
+    "name": { "str": "tricycle wheels" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_unicycle",
+    "id": "wheel_unicycle",
+    "type": "vehicle_part",
+    "name": { "str": "unicycle wheel" },
+    "looks_like": "wheel_bicycle",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_wheelchair",
+    "id": "wheel_wheelchair",
+    "type": "vehicle_part",
+    "name": { "str": "wheelchair wheel" },
+    "looks_like": "wheel_bicycle",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_wide",
+    "id": "wheel_wide",
+    "type": "vehicle_part",
+    "name": { "str": "wide wheel" },
+    "looks_like": "wheel",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_wide_or",
+    "id": "wheel_wide_or",
+    "type": "vehicle_part",
+    "name": { "str": "off-road wide wheel" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_wood",
+    "id": "wheel_wood",
+    "type": "vehicle_part",
+    "name": { "str": "wooden cart wheel" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wheel_wood_b",
+    "id": "wheel_wood_b",
+    "type": "vehicle_part",
+    "name": { "str": "banded wooden cart wheel" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

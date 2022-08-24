@@ -1,0 +1,34 @@
+[
+  {
+    "copy-from": "windshield",
+    "id": "windshield",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "windshield_full",
+    "id": "windshield_full",
+    "type": "vehicle_part",
+    "name": { "str": "full windshield" },
+    "looks_like": "windshield",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "reinforced_windshield",
+    "id": "reinforced_windshield",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "reinforced_windshield_full",
+    "id": "reinforced_windshield_full",
+    "type": "vehicle_part",
+    "name": { "str": "reinforced full windshield" },
+    "looks_like": "reinforced_windshield",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

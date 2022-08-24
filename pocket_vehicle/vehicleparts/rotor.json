@@ -1,0 +1,34 @@
+[
+  {
+    "copy-from": "heavy_duty_military_rotor",
+    "id": "heavy_duty_military_rotor",
+    "type": "vehicle_part",
+    "name": { "str": "heavy-duty military rotors" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "small_civilian_rotors",
+    "id": "small_civilian_rotors",
+    "type": "vehicle_part",
+    "name": { "str": "small helicopter rotors" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "heavy_duty_military_blackhawk_rotors",
+    "id": "heavy_duty_military_blackhawk_rotors",
+    "type": "vehicle_part",
+    "name": { "str": "heavy-duty military Blackhawk rotors" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "heavy_duty_military_osprey_rotors",
+    "id": "heavy_duty_military_osprey_rotors",
+    "type": "vehicle_part",
+    "name": { "str": "heavy-duty military Osprey rotors" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

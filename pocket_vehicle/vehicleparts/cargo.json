@@ -1,0 +1,114 @@
+[
+  {
+    "copy-from": "cargo_bag",
+    "id": "cargo_bag",
+    "type": "vehicle_part",
+    "name": { "str": "storage bag" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "basketlg",
+    "id": "basketlg",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "basketlg_cart",
+    "id": "basketlg_cart",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "basketlg_external",
+    "id": "basketlg_external",
+    "type": "vehicle_part",
+    "name": { "str": "external shopping cart basket" },
+    "looks_like": "basketlg",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "basketlg_folding",
+    "id": "basketlg_folding",
+    "type": "vehicle_part",
+    "name": { "str": "folding shopping cart basket" },
+    "looks_like": "basketlg",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "basketsm",
+    "id": "basketsm",
+    "type": "vehicle_part",
+    "looks_like": "basketlg",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "basketsm_abstract",
+    "id": "basketsm_bike_rear",
+    "type": "vehicle_part",
+    "looks_like": "basketsm",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "basketsm_wheelchair",
+    "id": "basketsm_wheelchair",
+    "type": "vehicle_part",
+    "looks_like": "basketsm",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "basketsm_external",
+    "id": "basketsm_external",
+    "type": "vehicle_part",
+    "name": { "str": "external wire bike basket" },
+    "looks_like": "basketsm",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "box",
+    "id": "box",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "box_wheelbarrow",
+    "id": "box_wheelbarrow",
+    "type": "vehicle_part",
+    "looks_like": "box",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "cargo_space_external",
+    "id": "cargo_space_external",
+    "type": "vehicle_part",
+    "name": { "str": "external cargo rack" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "bike_rack",
+    "id": "bike_rack",
+    "type": "vehicle_part",
+    "name": { "str": "bike rack" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_spare_tire",
+    "id": "mounted_spare_tire",
+    "type": "vehicle_part",
+    "name": { "str": "mounted spare tire" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

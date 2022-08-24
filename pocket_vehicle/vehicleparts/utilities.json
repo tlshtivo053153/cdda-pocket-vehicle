@@ -1,0 +1,61 @@
+[
+  {
+    "copy-from": "kitchen_unit",
+    "id": "kitchen_unit",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "welding_rig",
+    "id": "welding_rig",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "craft_rig",
+    "id": "craft_rig",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "chemlab",
+    "id": "chemlab",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "veh_forge",
+    "id": "veh_forge",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "veh_kiln",
+    "id": "veh_kiln",
+    "type": "vehicle_part",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "veh_oil_press_electric",
+    "id": "veh_oil_press_electric",
+    "type": "vehicle_part",
+    "name": { "str": "mounted electric oil press" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "veh_binoculars",
+    "id": "veh_binoculars",
+    "type": "vehicle_part",
+    "name": { "str": "binoculars" },
+    "looks_like": "binoculars",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

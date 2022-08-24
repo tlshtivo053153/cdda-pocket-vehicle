@@ -1,0 +1,228 @@
+[
+  {
+    "copy-from": "mounted_chemical_thrower",
+    "id": "mounted_chemical_thrower",
+    "type": "vehicle_part",
+    "name": { "str": "mounted makeshift chemical thrower" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_emp_gun",
+    "id": "mounted_emp_gun",
+    "type": "vehicle_part",
+    "name": { "str": "mounted XM34 EMP projector" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_hk_g80",
+    "id": "mounted_hk_g80",
+    "type": "vehicle_part",
+    "name": { "str": "mounted H&K G80 Railgun" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "flamethrower",
+    "id": "flamethrower",
+    "type": "vehicle_part",
+    "name": { "str": "mounted flamethrower" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_plasma_gun",
+    "id": "mounted_plasma_gun",
+    "type": "vehicle_part",
+    "name": { "str": "mounted PPA-5 plasma gun" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "laser_rifle",
+    "id": "laser_rifle",
+    "type": "vehicle_part",
+    "name": { "str": "mounted A7 laser rifle" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_cmes_gun",
+    "id": "mounted_cmes_gun",
+    "type": "vehicle_part",
+    "name": { "str": "mounted CMES laser cannon" },
+    "looks_like": "mounted_m134",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_rmes_gun",
+    "id": "mounted_rmes_gun",
+    "type": "vehicle_part",
+    "name": { "str": "mounted RMES marksman laser" },
+    "looks_like": "mounted_plasma_gun",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "m249",
+    "id": "m249",
+    "type": "vehicle_part",
+    "name": { "str": "mounted M249" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "m249_semi",
+    "id": "m249_semi",
+    "type": "vehicle_part",
+    "name": { "str": "mounted M249S" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_bigun",
+    "id": "mounted_bigun",
+    "type": "vehicle_part",
+    "name": { "str": "mounted gatling shotgun" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_browning",
+    "id": "mounted_browning",
+    "type": "vehicle_part",
+    "name": { "str": "mounted M2 Browning" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_m134",
+    "id": "mounted_m134",
+    "type": "vehicle_part",
+    "name": { "str": "mounted M134D-H Minigun" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_m1918",
+    "id": "mounted_m1918",
+    "type": "vehicle_part",
+    "name": { "str": "mounted Browning Automatic Rifle" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_m231",
+    "id": "mounted_m231",
+    "type": "vehicle_part",
+    "name": { "str": "mounted M231 PFW" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_m240",
+    "id": "mounted_m240",
+    "type": "vehicle_part",
+    "name": { "str": "mounted M240" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_m60",
+    "id": "mounted_m60",
+    "type": "vehicle_part",
+    "name": { "str": "mounted M60" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_m60_semi",
+    "id": "mounted_m60_semi",
+    "type": "vehicle_part",
+    "name": { "str": "mounted M60 Semi Auto" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_mk19",
+    "id": "mounted_mk19",
+    "type": "vehicle_part",
+    "name": { "str": "mounted Mark 19 grenade launcher" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "tow_launcher",
+    "id": "tow_launcher",
+    "type": "vehicle_part",
+    "name": { "str": "mounted BGM-71F TOW" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_rm298",
+    "id": "mounted_rm298",
+    "type": "vehicle_part",
+    "name": { "str": "mounted RM298 HMG" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_rm614",
+    "id": "mounted_rm614",
+    "type": "vehicle_part",
+    "name": { "str": "mounted RM614 LMG" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "plasma_gun",
+    "id": "plasma_gun",
+    "type": "vehicle_part",
+    "name": { "str": "mounted Boeing XM-P plasma rifle" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "watercannon",
+    "id": "watercannon",
+    "type": "vehicle_part",
+    "name": { "str": "water cannon" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_coilgun",
+    "id": "mounted_coilgun",
+    "type": "vehicle_part",
+    "name": { "str": "mounted coilgun" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_3in_ordnance_rifle",
+    "id": "mounted_3in_ordnance_rifle",
+    "type": "vehicle_part",
+    "name": { "str": "3-inch ordnance rifle" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "plugged_3in_ordnance_rifle",
+    "id": "plugged_3in_ordnance_rifle",
+    "type": "vehicle_part",
+    "name": { "str": "plugged 3-inch ordnance rifle" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "mounted_pamd68",
+    "id": "mounted_pamd68",
+    "type": "vehicle_part",
+    "name": { "str": "mounted PA md. 68" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

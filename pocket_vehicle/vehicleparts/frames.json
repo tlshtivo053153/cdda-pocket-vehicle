@@ -1,0 +1,67 @@
+[
+  {
+    "copy-from": "folding_frame",
+    "id": "folding_frame",
+    "type": "vehicle_part",
+    "name": { "str": "foldable light frame" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "folding_wooden_frame",
+    "id": "folding_wooden_frame",
+    "type": "vehicle_part",
+    "name": { "str": "foldable wooden frame" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "frame",
+    "id": "frame",
+    "type": "vehicle_part",
+    "name": { "str": "frame" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "frame_wood",
+    "id": "frame_wood",
+    "type": "vehicle_part",
+    "name": { "str": "wooden frame" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "frame_wood_light",
+    "id": "frame_wood_light",
+    "type": "vehicle_part",
+    "name": { "str": "light wooden frame" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "hdframe",
+    "id": "hdframe",
+    "type": "vehicle_part",
+    "name": { "str": "heavy-duty frame" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "xlframe",
+    "id": "xlframe",
+    "type": "vehicle_part",
+    "name": { "str": "extra light frame" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "foldxlframe",
+    "id": "foldxlframe",
+    "type": "vehicle_part",
+    "name": { "str": "foldable extra light frame" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+
+]

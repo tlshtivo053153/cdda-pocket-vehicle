@@ -1,0 +1,18 @@
+[
+  {
+    "copy-from": "rebar_plate",
+    "id": "rebar_plate",
+    "type": "vehicle_part",
+    "name": { "str": "rebar reinforcement" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "spring_plate",
+    "id": "spring_plate",
+    "type": "vehicle_part",
+    "name": { "str": "shock absorber" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

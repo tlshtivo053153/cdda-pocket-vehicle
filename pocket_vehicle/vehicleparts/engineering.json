@@ -1,0 +1,68 @@
+[
+  {
+    "copy-from": "crane_medium",
+    "id": "crane_medium",
+    "type": "vehicle_part",
+    "name": { "str": "boom crane" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "crane_medium_internal",
+    "id": "crane_medium_internal",
+    "type": "vehicle_part",
+    "name": { "str": "internal boom crane" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "crane_small",
+    "id": "crane_small",
+    "type": "vehicle_part",
+    "name": { "str": "telescopic crane" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "crane_tiny",
+    "id": "crane_tiny",
+    "type": "vehicle_part",
+    "name": { "str": "pallet lifter" },
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "forklift_fork",
+    "id": "forklift_fork",
+    "type": "vehicle_part",
+    "name": { "str": "forklift arm" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "rockwheel",
+    "id": "rockwheel",
+    "type": "vehicle_part",
+    "name": { "str": "rockwheel" },
+    "looks_like": "crane_medium",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "air_jack",
+    "id": "air_jack",
+    "type": "vehicle_part",
+    "name": { "str": "air jack system" },
+    "looks_like": "crane_small",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "motorcycle_kickstand",
+    "id": "motorcycle_kickstand",
+    "type": "vehicle_part",
+    "name": { "str": "motorcycle kickstand" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]
