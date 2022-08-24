@@ -18,6 +18,7 @@
     "copy-from": "seat_leather",
     "id": "seat_leather",
     "type": "vehicle_part",
+    "looks_like": "seat",
     "folded_volume": "250 ml",
     "extend": { "flags": [ "FOLDABLE" ] }
   },
@@ -25,6 +26,7 @@
     "copy-from": "seat_windshield_leather",
     "id": "seat_windshield_leather",
     "type": "vehicle_part",
+    "looks_like": "seat",
     "folded_volume": "250 ml",
     "extend": { "flags": [ "FOLDABLE" ] }
   },
@@ -32,6 +34,7 @@
     "copy-from": "reclining_seat",
     "id": "reclining_seat",
     "type": "vehicle_part",
+    "looks_like": "reclining_seat",
     "folded_volume": "250 ml",
     "extend": { "flags": [ "FOLDABLE" ] }
   },
@@ -39,6 +42,7 @@
     "copy-from": "reclining_seat_windshield",
     "id": "reclining_seat_windshield",
     "type": "vehicle_part",
+    "looks_like": "reclining_seat",
     "folded_volume": "250 ml",
     "extend": { "flags": [ "FOLDABLE" ] }
   },
@@ -102,6 +106,7 @@
     "copy-from": "folding_seat",
     "id": "folding_seat",
     "type": "vehicle_part",
+    "looks_like": "seat",
     "folded_volume": "1 ml",
     "extend": { "flags": [ "FOLDABLE" ] }
   },
@@ -109,6 +114,7 @@
     "copy-from": "metal_bench",
     "id": "metal_bench",
     "type": "vehicle_part",
+    "looks_like": "seat",
     "folded_volume": "250 ml",
     "extend": { "flags": [ "FOLDABLE" ] }
   }
