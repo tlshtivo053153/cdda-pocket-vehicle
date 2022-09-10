@@ -47,7 +47,7 @@
     "id": "frame_handle",
     "type": "vehicle_part",
     "name": { "str": "handle" },
-    "folded_volume": "1 ml",
+    "folded_volume": "250 ml",
     "extend": { "flags": [ "FOLDABLE" ] }
   },
   {
@@ -56,7 +56,7 @@
     "type": "vehicle_part",
     "name": { "str": "wooden handle" },
     "looks_like": "frame_wood_cover",
-    "folded_volume": "250 ml",
+    "folded_volume": "500 ml",
     "extend": { "flags": [ "FOLDABLE" ] }
   },
   {
@@ -65,7 +65,7 @@
     "type": "vehicle_part",
     "name": { "str": "light wooden handle" },
     "looks_like": "frame_wood_light_cover",
-    "folded_volume": "250 ml",
+    "folded_volume": "500 ml",
     "extend": { "flags": [ "FOLDABLE" ] }
   },
   {
