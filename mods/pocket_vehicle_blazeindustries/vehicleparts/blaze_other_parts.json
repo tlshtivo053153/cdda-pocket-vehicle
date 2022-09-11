@@ -1,0 +1,96 @@
+[
+  {
+    "copy-from": "cargo_rack_extended",
+    "id": "cargo_rack_extended",
+    "type": "vehicle_part",
+    "name": { "str": "cargo shelving" },
+    "looks_like": "box",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "afs_fridge",
+    "id": "afs_fridge",
+    "type": "vehicle_part",
+    "name": { "str": "refrigerator" },
+    "looks_like": "minifridge",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "afs_freezer",
+    "id": "afs_freezer",
+    "type": "vehicle_part",
+    "name": { "str": "freezer" },
+    "looks_like": "minifridge",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "afs_metal_rig",
+    "id": "afs_metal_rig",
+    "type": "vehicle_part",
+    "name": { "str": "MetalMaster forge buddy" },
+    "looks_like": "welding_rig",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "afs_cooking_rig",
+    "id": "afs_cooking_rig",
+    "type": "vehicle_part",
+    "name": { "str": "cooking rig" },
+    "looks_like": "kitchen_unit",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "afs_kitchen_rig",
+    "id": "afs_kitchen_rig",
+    "type": "vehicle_part",
+    "name": { "str": "KitchenMaster cooking buddy" },
+    "looks_like": "kitchen_unit",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "solar_array_part",
+    "id": "solar_array_part",
+    "type": "vehicle_part",
+    "name": { "str": "solar array" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "reinforced_solar_array_part",
+    "id": "reinforced_solar_array_part",
+    "type": "vehicle_part",
+    "name": { "str": "reinforced solar array" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "solar_array_v2_part",
+    "id": "solar_array_v2_part",
+    "type": "vehicle_part",
+    "name": { "str": "upgraded solar array" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "reinforced_solar_array_v2_part",
+    "id": "reinforced_solar_array_v2_part",
+    "type": "vehicle_part",
+    "name": { "str": "upgraded reinforced solar array" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "wiring",
+    "id": "wiring",
+    "type": "vehicle_part",
+    "name": { "str": "wiring" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

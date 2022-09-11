@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "pocket_vehicle_blazeindustries",
+    "name": "変更 - ポケットカー(Blaze Industries)",
+    "authors": [ "tlshtivo053153" ],
+    "description": "Blaze Industriesの車両を全て折り畳み可能にします。",
+    "category": "rebalance",
+    "dependencies": [ "dda", "blazeindustries" ],
+    "version": "0.0.1"
+  }
+]

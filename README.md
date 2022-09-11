@@ -13,4 +13,6 @@ Cataclysm: Dark Days Ahead の開発版向けMOD。
 1. Githubのページにある `Code -> Download ZIP` からダウンロードする。
 2. `mods` フォルダを `data/mods` にコピーする。
 3. 世界生成時のMODリストから [調整] -> [変更 - ポケットカー] を選択。
-4. magiclysmの車両にMODを適用したい場合 [変更 - ポケットカー(Magiclysm)]を選択。
+
+magiclysmの車両にMODを適用したい場合 [変更 - ポケットカー(Magiclysm)] を選択。
+blaze industriesなら [変更 - ポケットカー(Blaze Industries)] を選択
