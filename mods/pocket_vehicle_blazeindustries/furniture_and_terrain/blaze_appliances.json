@@ -1,0 +1,11 @@
+[
+  {
+    "copy-from": "blaze_washing_machine",
+    "id": "blaze_washing_machine",
+    "type": "vehicle_part",
+    "name": { "str": "full-size washing machine" },
+    "looks_like": "f_washer",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]
