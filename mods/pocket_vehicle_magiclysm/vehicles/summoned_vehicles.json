@@ -1,0 +1,10 @@
+[
+  {
+    "copy-from": "mana_frame",
+    "id": "mana_frame",
+    "type": "vehicle_part",
+    "name": "mana frame",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

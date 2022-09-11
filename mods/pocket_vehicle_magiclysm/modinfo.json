@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "pocket_vehicle_magiclysm",
+    "name": "変更 - ポケットカー(Magiclysm)",
+    "authors": [ "tlshtivo053153" ],
+    "description": "Magiclysmの車両を全て折り畳み可能にします。",
+    "category": "rebalance",
+    "dependencies": [ "dda", "magiclysm" ],
+    "version": "0.0.1"
+  }
+]

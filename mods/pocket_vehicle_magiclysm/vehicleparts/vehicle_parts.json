@@ -1,0 +1,9 @@
+[
+  {
+    "copy-from": "engine_vtwin_magic",
+    "id": "engine_vtwin_magic",
+    "type": "vehicle_part",
+    "folded_volume": "1 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

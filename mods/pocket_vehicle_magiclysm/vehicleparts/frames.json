@@ -1,0 +1,98 @@
+[
+  {
+    "copy-from": "light_orichalcum_frame",
+    "id": "light_orichalcum_frame",
+    "type": "vehicle_part",
+    "name": "light orichalcum frame",
+    "looks_like": "orichalcum_frame",
+    "folded_volume": "500 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "folding_orichalcum_frame",
+    "id": "folding_orichalcum_frame",
+    "type": "vehicle_part",
+    "name": "foldable orichalcum frame",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "id": "frame_orichalcum_cover",
+    "copy-from": "orichalcum_frame",
+    "type": "vehicle_part",
+    "symbol": "^",
+    "folded_volume": "500 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "id": "frame_orichalcum_cross",
+    "copy-from": "orichalcum_frame",
+    "type": "vehicle_part",
+    "symbol": "c",
+    "extend": { "flags": [ "INITIAL_PART", "FOLDABLE" ] }
+  },
+  {
+    "id": "frame_orichalcum_horizontal",
+    "copy-from": "orichalcum_frame",
+    "type": "vehicle_part",
+    "symbol": "h",
+    "folded_volume": "500 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "id": "frame_orichalcum_horizontal_2",
+    "copy-from": "orichalcum_frame",
+    "type": "vehicle_part",
+    "symbol": "=",
+    "folded_volume": "500 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "id": "frame_orichalcum_ne",
+    "copy-from": "orichalcum_frame",
+    "type": "vehicle_part",
+    "symbol": "u",
+    "folded_volume": "500 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "id": "frame_orichalcum_nw",
+    "copy-from": "orichalcum_frame",
+    "type": "vehicle_part",
+    "symbol": "y",
+    "folded_volume": "500 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "id": "frame_orichalcum_se",
+    "copy-from": "orichalcum_frame",
+    "type": "vehicle_part",
+    "symbol": "n",
+    "folded_volume": "500 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "id": "frame_orichalcum_sw",
+    "copy-from": "orichalcum_frame",
+    "type": "vehicle_part",
+    "symbol": "b",
+    "folded_volume": "500 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "id": "frame_orichalcum_vertical",
+    "copy-from": "orichalcum_frame",
+    "type": "vehicle_part",
+    "symbol": "j",
+    "folded_volume": "500 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "id": "frame_orichalcum_vertical_2",
+    "copy-from": "orichalcum_frame",
+    "type": "vehicle_part",
+    "symbol": "H",
+    "folded_volume": "500 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]
