@@ -1,0 +1,10 @@
+[
+  {
+    "copy-from": "bulette_plate",
+    "id": "bulette_plate",
+    "type": "vehicle_part",
+    "name": "bulette plating",
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]
