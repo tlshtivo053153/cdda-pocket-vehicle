@@ -1,0 +1,10 @@
+[
+  {
+    "copy-from": "mounted_hammer_turret_system",
+    "id": "mounted_hammer_turret_system",
+    "type": "vehicle_part",
+    "name": { "str": "mounted HAMMER dual AA-12 turret system" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
+  }
+]

@@ -15,5 +15,6 @@ Cataclysm: Dark Days Ahead の開発版向けMOD。
 3. 世界生成時のMODリストから [調整] -> [変更 - ポケットカー] を選択。
 
 magiclysmの車両にMODを適用したい場合 [変更 - ポケットカー(Magiclysm)] を選択。
-blaze industriesなら [変更 - ポケットカー(Blaze Industries)] を選択。
-Aftershockなら [変更 - ポケットカー(Aftershock)] を選択。
+blaze industriesなら [変更 - ポケットカー(Blaze Industries)]、
+Aftershockなら [変更 - ポケットカー(Aftershock)]、
+XEDRAの発展なら [変更 - ポケットカー(XEDRAの発展)] を選択。
