@@ -6,7 +6,9 @@
     "name": { "str": "tiny electric motor" },
     "looks_like": "motor_small",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "engine_electric_small",
@@ -14,7 +16,9 @@
     "type": "vehicle_part",
     "name": { "str": "small electric motor" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "engine_electric",
@@ -22,7 +26,9 @@
     "type": "vehicle_part",
     "name": { "str": "electric motor" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "engine_electric_large",
@@ -30,7 +36,9 @@
     "type": "vehicle_part",
     "name": { "str": "large electric motor" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "engine_electric_enhanced",
@@ -38,7 +46,9 @@
     "type": "vehicle_part",
     "name": { "str": "enhanced electric motor" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "engine_electric_super",
@@ -46,7 +56,9 @@
     "type": "vehicle_part",
     "name": { "str": "super electric motor" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "engine_electric_train",
@@ -54,6 +66,8 @@
     "type": "vehicle_part",
     "name": { "str": "1300hp electric train engine" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]

@@ -5,7 +5,9 @@
     "type": "vehicle_part",
     "name": { "str": "aisle lights" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "atomic_lamp",
@@ -13,7 +15,9 @@
     "type": "vehicle_part",
     "name": { "str": "atomic lamp" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "atomic_light",
@@ -21,7 +25,9 @@
     "type": "vehicle_part",
     "name": { "str": "atomic nightlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "floodlight",
@@ -29,7 +35,9 @@
     "type": "vehicle_part",
     "name": { "str": "floodlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "directed_floodlight",
@@ -38,7 +46,9 @@
     "name": { "str": "directed floodlight" },
     "looks_like": "floodlight",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "headlight",
@@ -46,7 +56,9 @@
     "type": "vehicle_part",
     "name": { "str": "headlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "motorcycle_headlight",
@@ -54,7 +66,9 @@
     "type": "vehicle_part",
     "name": { "str": "motorcycle headlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "wide_headlight",
@@ -63,7 +77,9 @@
     "name": { "str": "wide angle headlight" },
     "looks_like": "headlight",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "headlight_reinforced",
@@ -71,7 +87,9 @@
     "type": "vehicle_part",
     "name": { "str": "reinforced headlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "wide_headlight_reinforced",
@@ -79,7 +97,9 @@
     "type": "vehicle_part",
     "name": { "str": "reinforced wide-angle headlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "light_blue",
@@ -87,7 +107,9 @@
     "type": "vehicle_part",
     "name": { "str": "blue light" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "light_red",
@@ -95,7 +117,9 @@
     "type": "vehicle_part",
     "name": { "str": "red light" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "lit_aisle",
@@ -103,6 +127,8 @@
     "type": "vehicle_part",
     "name": { "str": "aisle with lights" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]

@@ -4,6 +4,8 @@
     "id": "engine_vtwin_magic",
     "type": "vehicle_part",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]

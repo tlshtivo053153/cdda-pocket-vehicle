@@ -4,7 +4,9 @@
     "id": "windshield",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "windshield_full",
@@ -13,14 +15,18 @@
     "name": { "str": "full windshield" },
     "looks_like": "windshield",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "reinforced_windshield",
     "id": "reinforced_windshield",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "reinforced_windshield_full",
@@ -29,6 +35,8 @@
     "name": { "str": "reinforced full windshield" },
     "looks_like": "reinforced_windshield",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]

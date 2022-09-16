@@ -5,7 +5,9 @@
     "type": "vehicle_part",
     "name": { "str": "null part" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "yoke_harness",
@@ -14,7 +16,9 @@
     "name": { "str": "yoke and harness" },
     "looks_like": "frame_wood_cross",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "cart_handle",
@@ -23,7 +27,9 @@
     "name": { "str": "cart handle" },
     "looks_like": "frame_wood_horizontal",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "tracker",
@@ -31,7 +37,9 @@
     "type": "vehicle_part",
     "name": { "str": "tracking device" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "bed",
@@ -40,7 +48,9 @@
     "name": { "str": "bed" },
     "looks_like": "f_bed",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "frame_handle",
@@ -48,7 +58,9 @@
     "type": "vehicle_part",
     "name": { "str": "handle" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "frame_wood_handle",
@@ -57,7 +69,9 @@
     "name": { "str": "wooden handle" },
     "looks_like": "frame_wood_cover",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "frame_wood_light_handle",
@@ -66,7 +80,9 @@
     "name": { "str": "light wooden handle" },
     "looks_like": "frame_wood_light_cover",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "aisle",
@@ -75,7 +91,9 @@
     "name": { "str": "aisle" },
     "looks_like": "t_metal_floor",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "wooden_aisle",
@@ -84,7 +102,9 @@
     "name": { "str": "wooden aisle" },
     "looks_like": "t_floor",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "foldable_aisle",
@@ -93,7 +113,9 @@
     "name": { "str": "collapsible wooden aisle" },
     "looks_like": "t_floor",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "trunk_floor",
@@ -102,7 +124,9 @@
     "name": { "str": "floor trunk" },
     "looks_like": "t_carpet_red",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "roof_cloth",
@@ -110,7 +134,9 @@
     "type": "vehicle_part",
     "name": { "str": "cloth roof" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "roof",
@@ -118,7 +144,9 @@
     "type": "vehicle_part",
     "name": { "str": "roof" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "hdroof",
@@ -126,7 +154,9 @@
     "type": "vehicle_part",
     "name": { "str": "heavy-duty roof" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "blade",
@@ -134,7 +164,9 @@
     "type": "vehicle_part",
     "name": { "str": "blade" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "spike",
@@ -142,7 +174,9 @@
     "type": "vehicle_part",
     "name": { "str": "spike" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "programmable_autopilot",
@@ -151,7 +185,9 @@
     "name": { "str": "programmable autopilot" },
     "looks_like": "cam_control",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "storage_battery_mount",
@@ -159,7 +195,9 @@
     "type": "vehicle_part",
     "name": { "str": "swappable storage battery case" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "handheld_battery_mount",
@@ -167,7 +205,9 @@
     "type": "vehicle_part",
     "name": { "str": "tool battery mount" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "black_box",
@@ -175,7 +215,9 @@
     "type": "vehicle_part",
     "name": { "str": "military black box" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "minireactor",
@@ -183,7 +225,9 @@
     "type": "vehicle_part",
     "name": { "str": "minireactor" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "minifridge",
@@ -192,7 +236,9 @@
     "name": { "str": "minifridge" },
     "looks_like": "f_fridge",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "minifreezer",
@@ -201,7 +247,9 @@
     "name": { "str": "minifreezer" },
     "looks_like": "minifridge",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "washing_machine",
@@ -210,7 +258,9 @@
     "name": { "str": "washing machine" },
     "looks_like": "f_washer",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "dishwasher",
@@ -219,7 +269,9 @@
     "name": { "str": "portable dishwasher" },
     "looks_like": "washing_machine",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "autoclave",
@@ -228,7 +280,9 @@
     "name": { "str": "autoclave" },
     "looks_like": "dishwasher",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "trunk",
@@ -237,7 +291,9 @@
     "name": { "str": "trunk" },
     "looks_like": "f_locker",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "travois",
@@ -246,7 +302,9 @@
     "name": { "str": "travois" },
     "looks_like": "frame_wood_light_cross",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "wood box",
@@ -255,7 +313,9 @@
     "name": { "str": "wood box" },
     "looks_like": "f_crate_o",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "folding wood box",
@@ -264,7 +324,9 @@
     "name": { "str": "folding wood box" },
     "looks_like": "wood box",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "veh_table",
@@ -273,7 +335,9 @@
     "name": { "str": "table" },
     "looks_like": "f_table",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "veh_table_wood",
@@ -282,7 +346,9 @@
     "name": { "str": "wood table" },
     "looks_like": "f_table",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "veh_table_foldable",
@@ -291,7 +357,9 @@
     "name": { "str": "flat-packable table" },
     "looks_like": "veh_table_wood",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "workbench",
@@ -300,7 +368,9 @@
     "name": { "str": "workbench" },
     "looks_like": "veh_table_wood",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "workbench_with_recharger",
@@ -308,7 +378,9 @@
     "type": "vehicle_part",
     "name": { "str": "workbench with battery recharger" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "boat_board",
@@ -317,7 +389,9 @@
     "name": { "str": "wooden boat hull" },
     "looks_like": "t_wall_log",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "raft_board",
@@ -326,7 +400,9 @@
     "name": { "str": "raft boat hull" },
     "looks_like": "t_wall_log",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plastic_boat_hull",
@@ -335,7 +411,9 @@
     "name": { "str": "plastic boat hull" },
     "looks_like": "boat_board",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "metal_boat_hull",
@@ -344,7 +422,9 @@
     "name": { "str": "metal boat hull" },
     "looks_like": "boat_board",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "carbonfiber_boat_hull",
@@ -353,7 +433,9 @@
     "name": { "str": "carbon fiber boat hull" },
     "looks_like": "boat_board",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "inflatable_section",
@@ -362,7 +444,9 @@
     "name": { "str": "inflatable section" },
     "looks_like": "inflatable_airbag",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "inflatable_airbag",
@@ -370,7 +454,9 @@
     "type": "vehicle_part",
     "name": { "str": "inflatable airbag" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "sail",
@@ -378,7 +464,9 @@
     "type": "vehicle_part",
     "name": { "str": "sail" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "hand_paddles",
@@ -386,7 +474,9 @@
     "type": "vehicle_part",
     "name": { "str": "hand paddles" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "reins_tackle",
@@ -394,7 +484,9 @@
     "type": "vehicle_part",
     "name": { "str": "reins and tackle" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "controls",
@@ -402,7 +494,9 @@
     "type": "vehicle_part",
     "name": { "str": "controls" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "dashboard",
@@ -410,7 +504,9 @@
     "type": "vehicle_part",
     "name": { "str": "dashboard" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "mountable_heater",
@@ -418,7 +514,9 @@
     "type": "vehicle_part",
     "name": { "str": "vehicle-mounted heater" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "mountable_heater_small",
@@ -426,7 +524,9 @@
     "type": "vehicle_part",
     "name": { "str": "small vehicle-mounted heater" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "mountable_cooler",
@@ -434,7 +534,9 @@
     "type": "vehicle_part",
     "name": { "str": "vehicle-mounted cooler" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "controls_electronic",
@@ -442,7 +544,9 @@
     "type": "vehicle_part",
     "name": { "str": "electronics control unit" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "muffler",
@@ -450,7 +554,9 @@
     "type": "vehicle_part",
     "name": { "str": "muffler" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "seatbelt",
@@ -458,7 +564,9 @@
     "type": "vehicle_part",
     "name": { "str": "seatbelt" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "vehicle_alarm",
@@ -466,7 +574,9 @@
     "type": "vehicle_part",
     "name": { "str": "security system" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "smart_engine_controller",
@@ -474,7 +584,9 @@
     "type": "vehicle_part",
     "name": { "str": "smart engine controller" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "seatbelt_heavyduty",
@@ -482,7 +594,9 @@
     "type": "vehicle_part",
     "name": { "str": "5-point harness" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "v_curtain",
@@ -491,7 +605,9 @@
     "name": { "str": "curtain" },
     "looks_like": "t_door_curtain_c",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "aisle_curtain",
@@ -500,7 +616,9 @@
     "name": { "str": "aisle curtain" },
     "looks_like": "v_curtain",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "water_wheel",
@@ -508,7 +626,9 @@
     "type": "vehicle_part",
     "name": { "str": "water wheel" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "xl_water_wheel",
@@ -517,7 +637,9 @@
     "name": { "str": "large water wheel" },
     "looks_like": "water_wheel",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "solar_panel",
@@ -525,7 +647,9 @@
     "type": "vehicle_part",
     "name": { "str": "solar panel" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "wind_turbine",
@@ -533,7 +657,9 @@
     "type": "vehicle_part",
     "name": { "str": "wind turbine" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "xl_wind_turbine",
@@ -542,7 +668,9 @@
     "name": { "str": "large wind turbine" },
     "looks_like": "wind_turbine",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "foldable_solar_panel",
@@ -551,7 +679,9 @@
     "name": { "str": "collapsible solar array" },
     "looks_like": "solar_panel",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "advanced_foldable_solar_panel",
@@ -559,7 +689,9 @@
     "type": "vehicle_part",
     "name": { "str": "advanced collapsible solar array" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "reinforced_solar_panel",
@@ -568,7 +700,9 @@
     "name": { "str": "reinforced solar panel" },
     "looks_like": "solar_panel",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "solar_panel_v2",
@@ -577,7 +711,9 @@
     "name": { "str": "advanced solar panel" },
     "looks_like": "solar_panel",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "reinforced_solar_panel_v2",
@@ -586,7 +722,9 @@
     "name": { "str": "advanced reinforced solar panel" },
     "looks_like": "reinforced_solar_panel",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "water_faucet",
@@ -595,7 +733,9 @@
     "name": { "str": "water faucet" },
     "looks_like": "f_sink",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "towel_hanger",
@@ -603,7 +743,9 @@
     "type": "vehicle_part",
     "name": { "str": "towel hanger" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plating_wood",
@@ -611,7 +753,9 @@
     "type": "vehicle_part",
     "name": { "str": "wooden armor" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plating_steel",
@@ -619,7 +763,9 @@
     "type": "vehicle_part",
     "name": { "str": "steel plating" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plating_superalloy",
@@ -627,7 +773,9 @@
     "type": "vehicle_part",
     "name": { "str": "superalloy plating" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plating_spiked",
@@ -635,7 +783,9 @@
     "type": "vehicle_part",
     "name": { "str": "spiked plating" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plating_hard",
@@ -643,7 +793,9 @@
     "type": "vehicle_part",
     "name": { "str": "hard plating" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plating_military",
@@ -651,7 +803,9 @@
     "type": "vehicle_part",
     "name": { "str": "military composite armor plating" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "horn_bicycle",
@@ -659,7 +813,9 @@
     "type": "vehicle_part",
     "name": { "str": "bicycle horn" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "horn_car",
@@ -667,7 +823,9 @@
     "type": "vehicle_part",
     "name": { "str": "car horn" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "horn_big",
@@ -675,7 +833,9 @@
     "type": "vehicle_part",
     "name": { "str": "truck horn" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "beeper",
@@ -683,7 +843,9 @@
     "type": "vehicle_part",
     "name": { "str": "back-up beeper" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "door_trunk",
@@ -692,7 +854,9 @@
     "name": { "str": "trunk door" },
     "looks_like": "hatch",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "hddoor_trunk",
@@ -701,7 +865,9 @@
     "name": { "str": "heavy-duty trunk door" },
     "looks_like": "door_trunk",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "door_shutter",
@@ -710,7 +876,9 @@
     "name": { "str": "shutter door" },
     "looks_like": "hatch",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "door_sliding",
@@ -719,7 +887,9 @@
     "name": { "str": "sliding door" },
     "looks_like": "door",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "cargo_space",
@@ -728,7 +898,9 @@
     "name": { "str": "cargo space" },
     "looks_like": "box",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "livestock_stall",
@@ -737,7 +909,9 @@
     "name": { "str": "livestock stall" },
     "looks_like": "cargo_space",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "animal_compartment",
@@ -746,7 +920,9 @@
     "name": { "str": "animal compartment" },
     "looks_like": "livestock_stall",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "recharge_station",
@@ -754,7 +930,9 @@
     "type": "vehicle_part",
     "name": { "str": "recharging station" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "battery_charger",
@@ -762,7 +940,9 @@
     "type": "vehicle_part",
     "name": { "str": "battery charger" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "stereo",
@@ -770,7 +950,9 @@
     "type": "vehicle_part",
     "name": { "str": "stereo system" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "chimes",
@@ -778,7 +960,9 @@
     "type": "vehicle_part",
     "name": { "str": "chimes" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "jumper_cable",
@@ -786,7 +970,9 @@
     "type": "vehicle_part",
     "name": { "str": "jumper cable" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "extension_cable",
@@ -794,7 +980,9 @@
     "type": "vehicle_part",
     "name": { "str": "extension cord" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "long_extension_cable",
@@ -802,7 +990,9 @@
     "type": "vehicle_part",
     "name": { "str": "outdoor extension cord" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "jumper_cable_heavy",
@@ -810,7 +1000,9 @@
     "type": "vehicle_part",
     "name": { "str": "heavy-duty cable" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "hd_tow_cable",
@@ -818,7 +1010,9 @@
     "type": "vehicle_part",
     "name": { "str": "heavy-duty tow cable" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "jumper_cable_debug",
@@ -826,7 +1020,9 @@
     "type": "vehicle_part",
     "name": { "str": "shiny cable" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "seat_wood_flimsy",
@@ -835,7 +1031,9 @@
     "name": { "str": "flimsy wooden seat" },
     "looks_like": "seat",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "seat_wood",
@@ -844,7 +1042,9 @@
     "name": { "str": "wooden seat" },
     "looks_like": "seat",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "seat_wood_bench",
@@ -853,7 +1053,9 @@
     "name": { "str": "wooden bench" },
     "looks_like": "seat_wood",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "spike_wood",
@@ -861,7 +1063,9 @@
     "type": "vehicle_part",
     "name": { "str": "wooden spike" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "door_wood",
@@ -870,7 +1074,9 @@
     "name": { "str": "wooden door" },
     "looks_like": "t_door_c",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "door_wood_opaque",
@@ -879,7 +1085,9 @@
     "name": { "str": "opaque wooden door" },
     "looks_like": "door_wood",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "roof_wood",
@@ -887,7 +1095,9 @@
     "type": "vehicle_part",
     "name": { "str": "wooden roof" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plating_chitin",
@@ -895,7 +1105,9 @@
     "type": "vehicle_part",
     "name": { "str": "chitin plating" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plating_acidchitin",
@@ -903,7 +1115,9 @@
     "type": "vehicle_part",
     "name": { "str": "biosilicified chitin plating" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "door_motor",
@@ -911,7 +1125,9 @@
     "type": "vehicle_part",
     "name": { "str": "door motor" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "drive_by_wire_controls",
@@ -919,7 +1135,9 @@
     "type": "vehicle_part",
     "name": { "str": "drive by wire controls" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "cam_control",
@@ -927,7 +1145,9 @@
     "type": "vehicle_part",
     "name": { "str": "camera control system" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "omnicam",
@@ -935,7 +1155,9 @@
     "type": "vehicle_part",
     "name": { "str": "security camera" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "robot_controls",
@@ -943,7 +1165,9 @@
     "type": "vehicle_part",
     "name": { "str": "robot controls" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "vehicle_clock",
@@ -951,7 +1175,9 @@
     "type": "vehicle_part",
     "name": { "str": "clock" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "leather_funnel",
@@ -960,7 +1186,9 @@
     "name": { "str": "leather funnel" },
     "looks_like": "funnel",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "birchbark_funnel",
@@ -969,7 +1197,9 @@
     "name": { "str": "birchbark funnel" },
     "looks_like": "funnel",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "makeshift_funnel",
@@ -978,7 +1208,9 @@
     "name": { "str": "makeshift funnel" },
     "looks_like": "funnel",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "funnel",
@@ -986,7 +1218,9 @@
     "type": "vehicle_part",
     "name": { "str": "funnel" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "metal_funnel",
@@ -995,7 +1229,9 @@
     "name": { "str": "metal funnel" },
     "looks_like": "funnel",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "vehicle_scoop",
@@ -1003,7 +1239,9 @@
     "type": "vehicle_part",
     "name": { "str": "scoop" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "water_purifier",
@@ -1011,7 +1249,9 @@
     "type": "vehicle_part",
     "name": { "str": "water purifier" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plow",
@@ -1019,7 +1259,9 @@
     "type": "vehicle_part",
     "name": { "str": "plow" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "seed_drill",
@@ -1027,7 +1269,9 @@
     "type": "vehicle_part",
     "name": { "str": "seed drill" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "seed_drill_advanced",
@@ -1035,7 +1279,9 @@
     "type": "vehicle_part",
     "name": { "str": "advanced seed drill" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "reaper",
@@ -1043,7 +1289,9 @@
     "type": "vehicle_part",
     "name": { "str": "reaper" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "reaper_advanced",
@@ -1051,7 +1299,9 @@
     "type": "vehicle_part",
     "name": { "str": "advanced reaper" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "cargo_lock",
@@ -1059,7 +1309,9 @@
     "type": "vehicle_part",
     "name": { "str": "cargo lock" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "turret_mount",
@@ -1067,7 +1319,9 @@
     "type": "vehicle_part",
     "name": { "str": "turret mount" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "controls_turret",
@@ -1075,7 +1329,9 @@
     "type": "vehicle_part",
     "name": { "str": "turret control unit" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "aluminum_boat_hull",
@@ -1084,7 +1340,9 @@
     "name": { "str": "aluminum boat hull" },
     "looks_like": "boat_board",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "plugged_3in_ordnance_rifle",
@@ -1092,6 +1350,8 @@
     "type": "vehicle_part",
     "name": { "str": "plugged 3-inch ordnance rifle" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]

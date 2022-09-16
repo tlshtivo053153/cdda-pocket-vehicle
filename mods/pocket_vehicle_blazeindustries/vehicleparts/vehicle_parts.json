@@ -5,7 +5,9 @@
     "type": "vehicle_part",
     "symbol": "^",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_frame_cross",
@@ -13,7 +15,9 @@
     "type": "vehicle_part",
     "symbol": "c",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "INITIAL_PART", "FOLDABLE"] }
+    "extend": { "flags": [ "INITIAL_PART", "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_frame_horizontal",
@@ -21,7 +25,9 @@
     "type": "vehicle_part",
     "symbol": "h",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_frame_horizontal_2",
@@ -29,7 +35,9 @@
     "type": "vehicle_part",
     "symbol": "=",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_frame_ne",
@@ -37,7 +45,9 @@
     "type": "vehicle_part",
     "symbol": "u",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_frame_nw",
@@ -45,7 +55,9 @@
     "type": "vehicle_part",
     "symbol": "y",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_frame_se",
@@ -53,7 +65,9 @@
     "type": "vehicle_part",
     "symbol": "n",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_frame_sw",
@@ -61,7 +75,9 @@
     "type": "vehicle_part",
     "symbol": "b",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_frame_vertical",
@@ -69,7 +85,9 @@
     "type": "vehicle_part",
     "symbol": "j",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_frame_vertical_2",
@@ -77,7 +95,9 @@
     "type": "vehicle_part",
     "symbol": "H",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_foldable_frame_cover",
@@ -86,7 +106,9 @@
     "looks_like": "afs_lightweight_frame_cover",
     "symbol": "^",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_foldable_frame_cross",
@@ -95,7 +117,9 @@
     "looks_like": "afs_lightweight_frame_cross",
     "symbol": "c",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "INITIAL_PART", "FOLDABLE"] }
+    "extend": { "flags": [ "INITIAL_PART", "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_foldable_frame_horizontal",
@@ -104,7 +128,9 @@
     "looks_like": "afs_lightweight_frame_horizontal",
     "symbol": "h",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_foldable_frame_horizontal_2",
@@ -113,7 +139,9 @@
     "looks_like": "afs_lightweight_frame_horizontal_2",
     "symbol": "=",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_foldable_frame_ne",
@@ -122,7 +150,9 @@
     "looks_like": "afs_lightweight_frame_ne",
     "symbol": "u",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_foldable_frame_nw",
@@ -131,7 +161,9 @@
     "looks_like": "afs_lightweight_frame_nw",
     "symbol": "y",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_foldable_frame_se",
@@ -140,7 +172,9 @@
     "looks_like": "afs_lightweight_frame_se",
     "symbol": "n",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_foldable_frame_sw",
@@ -149,7 +183,9 @@
     "looks_like": "afs_lightweight_frame_sw",
     "symbol": "b",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_foldable_frame_vertical",
@@ -158,7 +194,9 @@
     "looks_like": "afs_lightweight_frame_vertical",
     "symbol": "j",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "afs_lightweight_foldable_frame_vertical_2",
@@ -167,6 +205,8 @@
     "looks_like": "afs_lightweight_frame_vertical_2",
     "symbol": "H",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]

@@ -5,7 +5,9 @@
     "type": "vehicle_part",
     "name": { "str": "boom crane" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "crane_medium_internal",
@@ -13,7 +15,9 @@
     "type": "vehicle_part",
     "name": { "str": "internal boom crane" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "crane_small",
@@ -21,7 +25,9 @@
     "type": "vehicle_part",
     "name": { "str": "telescopic crane" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "crane_tiny",
@@ -29,7 +35,9 @@
     "type": "vehicle_part",
     "name": { "str": "pallet lifter" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "forklift_fork",
@@ -37,7 +45,9 @@
     "type": "vehicle_part",
     "name": { "str": "forklift arm" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "rockwheel",
@@ -46,7 +56,9 @@
     "name": { "str": "rockwheel" },
     "looks_like": "crane_medium",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "air_jack",
@@ -55,7 +67,9 @@
     "name": { "str": "air jack system" },
     "looks_like": "crane_small",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "motorcycle_kickstand",
@@ -63,6 +77,8 @@
     "type": "vehicle_part",
     "name": { "str": "motorcycle kickstand" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]

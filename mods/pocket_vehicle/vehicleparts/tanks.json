@@ -5,7 +5,9 @@
     "type": "vehicle_part",
     "name": { "str": "vehicle tank (2L)" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "tank_small",
@@ -13,7 +15,9 @@
     "type": "vehicle_part",
     "name": { "str": "vehicle tank (10L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "tank_medium",
@@ -21,7 +25,9 @@
     "type": "vehicle_part",
     "name": { "str": "vehicle tank (20L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "tank",
@@ -29,7 +35,9 @@
     "type": "vehicle_part",
     "name": { "str": "vehicle tank (60L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "fridgetank",
@@ -37,7 +45,9 @@
     "type": "vehicle_part",
     "name": { "str": "refrigerated tank (60L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "heattank",
@@ -45,7 +55,9 @@
     "type": "vehicle_part",
     "name": { "str": "heated tank (60L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "external_tank_small",
@@ -53,7 +65,9 @@
     "type": "vehicle_part",
     "name": { "str": "external tank (100L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "afs_small_roof_external_tank",
@@ -62,7 +76,9 @@
     "name": { "str": "roof-mounted external tank (100L)" },
     "looks_like": "afs_roof_external_tank",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "external_tank",
@@ -70,7 +86,9 @@
     "type": "vehicle_part",
     "name": { "str": "external tank (200L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "afs_roof_external_tank",
@@ -78,7 +96,9 @@
     "type": "vehicle_part",
     "name": { "str": "roof-mounted external tank (200L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "tank_barrel",
@@ -86,7 +106,9 @@
     "type": "vehicle_part",
     "name": { "str": "wooden barrel (100L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "tank_30gal_drum",
@@ -94,7 +116,9 @@
     "type": "vehicle_part",
     "name": { "str": "steel drum (100L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "tank_55gal_drum",
@@ -102,7 +126,9 @@
     "type": "vehicle_part",
     "name": { "str": "steel drum (200L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "fuel_bunker",
@@ -111,7 +137,9 @@
     "name": { "str": "fuel bunker" },
     "looks_like": "tank",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "small_pressure_tank",
@@ -119,7 +147,9 @@
     "type": "vehicle_part",
     "name": { "str": "small pressurized tank" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "large_pressure_tank",
@@ -127,7 +157,9 @@
     "type": "vehicle_part",
     "name": { "str": "large pressurized tank" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "xl_pressure_tank",
@@ -135,7 +167,9 @@
     "type": "vehicle_part",
     "name": { "str": "XL pressurized tank" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "tank_55gal_drum_aluminum",
@@ -143,7 +177,9 @@
     "type": "vehicle_part",
     "name": { "str": "aluminum tank (200L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "tank_30gal_drum_aluminum",
@@ -151,7 +187,9 @@
     "type": "vehicle_part",
     "name": { "str": "aluminum tank (100L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "external_tank_small_aluminum",
@@ -160,7 +198,9 @@
     "name": { "str": "external aluminum tank (100L)" },
     "looks_like": "afs_roof_external_tank",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "afs_small_roof_external_tank_aluminum",
@@ -168,7 +208,9 @@
     "type": "vehicle_part",
     "name": { "str": "roof-mounted external aluminum tank (100L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "external_tank_aluminum",
@@ -176,7 +218,9 @@
     "type": "vehicle_part",
     "name": { "str": "external aluminum tank (200L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "afs_roof_external_tank_aluminum",
@@ -184,6 +228,8 @@
     "type": "vehicle_part",
     "name": { "str": "roof-mounted external aluminum tank (200L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]

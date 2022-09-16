@@ -6,7 +6,9 @@
     "name": "light orichalcum frame",
     "looks_like": "orichalcum_frame",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "folding_orichalcum_frame",
@@ -14,7 +16,9 @@
     "type": "vehicle_part",
     "name": "foldable orichalcum frame",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "frame_orichalcum_cover",
@@ -22,14 +26,18 @@
     "type": "vehicle_part",
     "symbol": "^",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "frame_orichalcum_cross",
     "copy-from": "orichalcum_frame",
     "type": "vehicle_part",
     "symbol": "c",
-    "extend": { "flags": [ "INITIAL_PART", "FOLDABLE" ] }
+    "extend": { "flags": [ "INITIAL_PART", "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "frame_orichalcum_horizontal",
@@ -37,7 +45,9 @@
     "type": "vehicle_part",
     "symbol": "h",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "frame_orichalcum_horizontal_2",
@@ -45,7 +55,9 @@
     "type": "vehicle_part",
     "symbol": "=",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "frame_orichalcum_ne",
@@ -53,7 +65,9 @@
     "type": "vehicle_part",
     "symbol": "u",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "frame_orichalcum_nw",
@@ -61,7 +75,9 @@
     "type": "vehicle_part",
     "symbol": "y",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "frame_orichalcum_se",
@@ -69,7 +85,9 @@
     "type": "vehicle_part",
     "symbol": "n",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "frame_orichalcum_sw",
@@ -77,7 +95,9 @@
     "type": "vehicle_part",
     "symbol": "b",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "frame_orichalcum_vertical",
@@ -85,7 +105,9 @@
     "type": "vehicle_part",
     "symbol": "j",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "id": "frame_orichalcum_vertical_2",
@@ -93,6 +115,8 @@
     "type": "vehicle_part",
     "symbol": "H",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]

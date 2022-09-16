@@ -5,7 +5,9 @@
     "type": "vehicle_part",
     "name": { "str": "car battery" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "battery_motorbike",
@@ -13,7 +15,9 @@
     "type": "vehicle_part",
     "name": { "str": "motorbike battery" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "battery_motorbike_small",
@@ -21,7 +25,9 @@
     "type": "vehicle_part",
     "name": { "str": "motorbike battery, small" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "large_storage_battery",
@@ -29,7 +35,9 @@
     "type": "vehicle_part",
     "name": { "str": "very large storage battery" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "large_storage_battery_removable",
@@ -37,7 +45,9 @@
     "type": "vehicle_part",
     "name": { "str": "swappable very large storage battery" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "medium_storage_battery",
@@ -45,7 +55,9 @@
     "type": "vehicle_part",
     "name": { "str": "medium storage battery" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "small_storage_battery",
@@ -53,7 +65,9 @@
     "type": "vehicle_part",
     "name": { "str": "small storage battery" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "storage_battery",
@@ -61,7 +75,9 @@
     "type": "vehicle_part",
     "name": { "str": "large storage battery" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "storage_battery_removable",
@@ -69,7 +85,9 @@
     "type": "vehicle_part",
     "name": { "str": "swappable large storage battery" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "car_light_minus_battery_cell",
@@ -77,7 +95,9 @@
     "type": "vehicle_part",
     "name": { "str": "ultra-light battery" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "car_light_battery_cell",
@@ -85,7 +105,9 @@
     "type": "vehicle_part",
     "name": { "str": "light battery" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "car_light_plus_battery_cell",
@@ -93,7 +115,9 @@
     "type": "vehicle_part",
     "name": { "str": "light battery (high-capacity)" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "car_medium_battery_cell",
@@ -101,7 +125,9 @@
     "type": "vehicle_part",
     "name": { "str": "medium battery" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "car_medium_plus_battery_cell",
@@ -109,7 +135,9 @@
     "type": "vehicle_part",
     "name": { "str": "medium battery (high-capacity)" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "car_heavy_battery_cell",
@@ -117,7 +145,9 @@
     "type": "vehicle_part",
     "name": { "str": "heavy battery" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   },
   {
     "copy-from": "car_heavy_plus_battery_cell",
@@ -125,6 +155,8 @@
     "type": "vehicle_part",
     "name": { "str": "heavy battery (high-capacity)" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] }
+    "extend": { "flags": [ "FOLDABLE" ] },
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]
