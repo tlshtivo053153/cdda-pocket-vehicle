@@ -7,6 +7,6 @@
     "description": "車両を全て折り畳み可能にします。",
     "category": "rebalance",
     "dependencies": [ "dda" ],
-    "version": "0.1"
+    "version": "0.2"
   }
 ]
