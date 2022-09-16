@@ -1085,5 +1085,13 @@
     "looks_like": "boat_board",
     "folded_volume": "250 ml",
     "extend": { "flags": [ "FOLDABLE" ] }
+  },
+  {
+    "copy-from": "plugged_3in_ordnance_rifle",
+    "id": "plugged_3in_ordnance_rifle",
+    "type": "vehicle_part",
+    "name": { "str": "plugged 3-inch ordnance rifle" },
+    "folded_volume": "250 ml",
+    "extend": { "flags": [ "FOLDABLE" ] }
   }
 ]
