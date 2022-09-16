@@ -11,46 +11,6 @@
     "unfolding_time": "1 seconds"
   },
   {
-    "copy-from": "afs_mounted_emp_gun",
-    "id": "afs_mounted_emp_gun",
-    "type": "vehicle_part",
-    "name": { "str": "mounted XM34 EMP projector" },
-    "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
-    "folding_time": "1 seconds",
-    "unfolding_time": "1 seconds"
-  },
-  {
-    "copy-from": "afs_mounted_gibs_shotgun",
-    "id": "afs_mounted_gibs_shotgun",
-    "type": "vehicle_part",
-    "name": { "str": "mounted Gibson S86" },
-    "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
-    "folding_time": "1 seconds",
-    "unfolding_time": "1 seconds"
-  },
-  {
-    "copy-from": "afs_mounted_Accipitermg",
-    "id": "afs_mounted_Accipitermg",
-    "type": "vehicle_part",
-    "name": { "str": "mounted Accipiter Hawk-00" },
-    "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
-    "folding_time": "1 seconds",
-    "unfolding_time": "1 seconds"
-  },
-  {
-    "copy-from": "afs_laser_rifle",
-    "id": "afs_laser_rifle",
-    "type": "vehicle_part",
-    "name": { "str": "mounted A7 laser rifle" },
-    "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
-    "folding_time": "1 seconds",
-    "unfolding_time": "1 seconds"
-  },
-  {
     "copy-from": "afs_crude_plating",
     "id": "afs_crude_plating",
     "type": "vehicle_part",
