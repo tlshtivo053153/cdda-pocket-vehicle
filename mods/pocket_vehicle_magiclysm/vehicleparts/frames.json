@@ -6,7 +6,6 @@
     "name": "light orichalcum frame",
     "looks_like": "orichalcum_frame",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -16,7 +15,6 @@
     "type": "vehicle_part",
     "name": "foldable orichalcum frame",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -26,7 +24,6 @@
     "type": "vehicle_part",
     "symbol": "^",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -35,7 +32,6 @@
     "copy-from": "orichalcum_frame",
     "type": "vehicle_part",
     "symbol": "c",
-    "extend": { "flags": [ "INITIAL_PART", "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -45,7 +41,6 @@
     "type": "vehicle_part",
     "symbol": "h",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -55,7 +50,6 @@
     "type": "vehicle_part",
     "symbol": "=",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -65,7 +59,6 @@
     "type": "vehicle_part",
     "symbol": "u",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -75,7 +68,6 @@
     "type": "vehicle_part",
     "symbol": "y",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -85,7 +77,6 @@
     "type": "vehicle_part",
     "symbol": "n",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -95,7 +86,6 @@
     "type": "vehicle_part",
     "symbol": "b",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -105,7 +95,6 @@
     "type": "vehicle_part",
     "symbol": "j",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -115,7 +104,6 @@
     "type": "vehicle_part",
     "symbol": "H",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   }

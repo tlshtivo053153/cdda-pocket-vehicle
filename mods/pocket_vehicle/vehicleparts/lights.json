@@ -5,7 +5,6 @@
     "type": "vehicle_part",
     "name": { "str": "aisle lights" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -15,7 +14,6 @@
     "type": "vehicle_part",
     "name": { "str": "atomic lamp" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -25,7 +23,6 @@
     "type": "vehicle_part",
     "name": { "str": "atomic nightlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -35,7 +32,6 @@
     "type": "vehicle_part",
     "name": { "str": "floodlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -46,7 +42,6 @@
     "name": { "str": "directed floodlight" },
     "looks_like": "floodlight",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -56,7 +51,6 @@
     "type": "vehicle_part",
     "name": { "str": "headlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -66,7 +60,6 @@
     "type": "vehicle_part",
     "name": { "str": "motorcycle headlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -77,7 +70,6 @@
     "name": { "str": "wide angle headlight" },
     "looks_like": "headlight",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -87,7 +79,6 @@
     "type": "vehicle_part",
     "name": { "str": "reinforced headlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -97,7 +88,6 @@
     "type": "vehicle_part",
     "name": { "str": "reinforced wide-angle headlight" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -107,7 +97,6 @@
     "type": "vehicle_part",
     "name": { "str": "blue light" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -117,7 +106,6 @@
     "type": "vehicle_part",
     "name": { "str": "red light" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   }

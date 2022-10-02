@@ -4,7 +4,6 @@
     "id": "engine_steam_large",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -13,7 +12,6 @@
     "id": "engine_steam_giant",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -22,7 +20,6 @@
     "id": "engine_steam_turbine_small",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -31,7 +28,6 @@
     "id": "engine_steam_turbine_medium",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -40,7 +36,6 @@
     "id": "engine_steam_turbine_large",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -49,7 +44,6 @@
     "id": "engine_steam_turbine_giant",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   }

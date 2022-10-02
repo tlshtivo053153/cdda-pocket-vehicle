@@ -5,7 +5,6 @@
     "type": "vehicle_part",
     "name": { "str": "foldable light frame" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -15,7 +14,6 @@
     "type": "vehicle_part",
     "name": { "str": "foldable wooden frame" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -25,7 +23,6 @@
     "type": "vehicle_part",
     "name": { "str": "frame" },
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -35,7 +32,6 @@
     "type": "vehicle_part",
     "name": { "str": "wooden frame" },
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -45,7 +41,6 @@
     "type": "vehicle_part",
     "name": { "str": "light wooden frame" },
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -55,7 +50,6 @@
     "type": "vehicle_part",
     "name": { "str": "heavy-duty frame" },
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -65,7 +59,6 @@
     "type": "vehicle_part",
     "name": { "str": "extra light frame" },
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -75,7 +68,6 @@
     "type": "vehicle_part",
     "name": { "str": "foldable extra light frame" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   }

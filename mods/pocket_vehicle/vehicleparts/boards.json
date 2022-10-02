@@ -5,7 +5,6 @@
     "type": "vehicle_part",
     "name": { "str": "board" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -15,7 +14,6 @@
     "type": "vehicle_part",
     "name": { "str": "quarterpanel" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -25,7 +23,6 @@
     "type": "vehicle_part",
     "name": { "str": "cloth board" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -35,7 +32,6 @@
     "type": "vehicle_part",
     "name": { "str": "stow board" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -45,7 +41,6 @@
     "type": "vehicle_part",
     "name": { "str": "heavy-duty stow board" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -55,7 +50,6 @@
     "type": "vehicle_part",
     "name": { "str": "heavy-duty board" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -65,7 +59,6 @@
     "type": "vehicle_part",
     "name": { "str": "heavy-duty quarterpanel" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -75,7 +68,6 @@
     "type": "vehicle_part",
     "name": { "str": "wooden board" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -85,7 +77,6 @@
     "type": "vehicle_part",
     "name": { "str": "wooden quarterpanel" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -96,7 +87,6 @@
     "name": { "str": "extra light quarterpanel" },
     "looks_like": "halfboard",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   }

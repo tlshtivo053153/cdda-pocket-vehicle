@@ -6,7 +6,6 @@
     "name": { "str": "cargo trough" },
     "looks_like": "trunk",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -17,7 +16,6 @@
     "name": { "str": "crude plating" },
     "looks_like": "steel_plate",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -28,7 +26,6 @@
     "name": { "str": "control station" },
     "looks_like": "vehicle_dashboard",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -38,7 +35,6 @@
     "type": "vehicle_part",
     "name": { "str": "mounted external tank (200L)" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -48,7 +44,6 @@
     "type": "vehicle_part",
     "symbol": "^",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -58,7 +53,6 @@
     "type": "vehicle_part",
     "symbol": "c",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "INITIAL_PART", "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -68,7 +62,6 @@
     "type": "vehicle_part",
     "symbol": "h",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -78,7 +71,6 @@
     "type": "vehicle_part",
     "symbol": "=",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -88,7 +80,6 @@
     "type": "vehicle_part",
     "symbol": "u",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -98,7 +89,6 @@
     "type": "vehicle_part",
     "symbol": "y",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -108,7 +98,6 @@
     "type": "vehicle_part",
     "symbol": "n",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -118,7 +107,6 @@
     "type": "vehicle_part",
     "symbol": "b",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -128,7 +116,6 @@
     "type": "vehicle_part",
     "symbol": "j",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -138,7 +125,6 @@
     "type": "vehicle_part",
     "symbol": "H",
     "folded_volume": "500 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -149,7 +135,6 @@
     "looks_like": "afs_lightweight_frame_cover",
     "symbol": "^",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -160,7 +145,6 @@
     "looks_like": "afs_lightweight_frame_cross",
     "symbol": "c",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "INITIAL_PART", "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -171,7 +155,6 @@
     "looks_like": "afs_lightweight_frame_horizontal",
     "symbol": "h",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -182,7 +165,6 @@
     "looks_like": "afs_lightweight_frame_horizontal_2",
     "symbol": "=",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -193,7 +175,6 @@
     "looks_like": "afs_lightweight_frame_ne",
     "symbol": "u",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -204,7 +185,6 @@
     "looks_like": "afs_lightweight_frame_nw",
     "symbol": "y",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -215,7 +195,6 @@
     "looks_like": "afs_lightweight_frame_se",
     "symbol": "n",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -226,7 +205,6 @@
     "looks_like": "afs_lightweight_frame_sw",
     "symbol": "b",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -237,7 +215,6 @@
     "looks_like": "afs_lightweight_frame_vertical",
     "symbol": "j",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -248,7 +225,6 @@
     "looks_like": "afs_lightweight_frame_vertical_2",
     "symbol": "H",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -259,7 +235,6 @@
     "name": "quantum solar panel",
     "looks_like": "solar_panel_v2",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -270,7 +245,6 @@
     "name": "robot_carrier",
     "looks_like": "cargo_space",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -281,7 +255,6 @@
     "name": { "str": "exosuit maintenance gantry" },
     "looks_like": "welding_rig",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   }

@@ -5,7 +5,6 @@
     "type": "vehicle_part",
     "name": { "str": "storage bag" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -14,7 +13,6 @@
     "id": "basketlg",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -23,7 +21,6 @@
     "id": "basketlg_cart",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -34,7 +31,6 @@
     "name": { "str": "external shopping cart basket" },
     "looks_like": "basketlg",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -45,7 +41,6 @@
     "name": { "str": "folding shopping cart basket" },
     "looks_like": "basketlg",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -55,7 +50,6 @@
     "type": "vehicle_part",
     "looks_like": "basketlg",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -65,7 +59,6 @@
     "type": "vehicle_part",
     "looks_like": "basketsm",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -75,7 +68,6 @@
     "type": "vehicle_part",
     "looks_like": "basketsm",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -86,7 +78,6 @@
     "name": { "str": "external wire bike basket" },
     "looks_like": "basketsm",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -95,7 +86,6 @@
     "id": "box",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -105,7 +95,6 @@
     "type": "vehicle_part",
     "looks_like": "box",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -115,7 +104,6 @@
     "type": "vehicle_part",
     "name": { "str": "external cargo rack" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -125,7 +113,6 @@
     "type": "vehicle_part",
     "name": { "str": "bike rack" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -135,7 +122,6 @@
     "type": "vehicle_part",
     "name": { "str": "mounted spare tire" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   }

@@ -4,7 +4,6 @@
     "id": "door",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -14,7 +13,6 @@
     "type": "vehicle_part",
     "looks_like": "door",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -25,7 +23,6 @@
     "name": { "str": "cloth flap door" },
     "looks_like": "door",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -36,7 +33,6 @@
     "name": { "str": "cloth curtain door" },
     "looks_like": "door",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -45,7 +41,6 @@
     "id": "door_opaque",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -55,7 +50,6 @@
     "type": "vehicle_part",
     "looks_like": "door_opaque",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -64,7 +58,6 @@
     "id": "hddoor",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -74,7 +67,6 @@
     "type": "vehicle_part",
     "looks_like": "hddoor",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -83,7 +75,6 @@
     "id": "hddoor_opaque",
     "type": "vehicle_part",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -93,7 +84,6 @@
     "type": "vehicle_part",
     "looks_like": "hddoor_opaque",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -104,7 +94,6 @@
     "name": { "str": "internal door" },
     "looks_like": "door",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -115,7 +104,6 @@
     "name": { "str": "hatch" },
     "looks_like": "door",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -126,7 +114,6 @@
     "name": { "str": "opaque hatch" },
     "looks_like": "door_opaque",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -137,7 +124,6 @@
     "name": { "str": "heavy-duty hatch" },
     "looks_like": "hatch",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -148,7 +134,6 @@
     "name": { "str": "heavy-duty opaque hatch" },
     "looks_like": "hatch_opaque",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   }

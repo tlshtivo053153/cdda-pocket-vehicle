@@ -6,7 +6,6 @@
     "name": { "str": "bicycle alternator" },
     "looks_like": "alternator_motorbike",
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -16,7 +15,6 @@
     "type": "vehicle_part",
     "name": { "str": "motorbike alternator" },
     "folded_volume": "1 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -26,7 +24,6 @@
     "type": "vehicle_part",
     "name": { "str": "car alternator" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -36,7 +33,6 @@
     "type": "vehicle_part",
     "name": { "str": "truck alternator" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -46,7 +42,6 @@
     "type": "vehicle_part",
     "name": { "str": "7.5kW generator" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   }

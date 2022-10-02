@@ -6,7 +6,6 @@
     "name": { "str": "cargo shelving" },
     "looks_like": "box",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -17,7 +16,6 @@
     "name": { "str": "refrigerator" },
     "looks_like": "minifridge",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -28,7 +26,6 @@
     "name": { "str": "freezer" },
     "looks_like": "minifridge",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -39,7 +36,6 @@
     "name": { "str": "MetalMaster forge buddy" },
     "looks_like": "welding_rig",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -50,7 +46,6 @@
     "name": { "str": "cooking rig" },
     "looks_like": "kitchen_unit",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -61,7 +56,6 @@
     "name": { "str": "KitchenMaster cooking buddy" },
     "looks_like": "kitchen_unit",
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -71,7 +65,6 @@
     "type": "vehicle_part",
     "name": { "str": "solar array" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -81,7 +74,6 @@
     "type": "vehicle_part",
     "name": { "str": "reinforced solar array" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -91,7 +83,6 @@
     "type": "vehicle_part",
     "name": { "str": "upgraded solar array" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -101,7 +92,6 @@
     "type": "vehicle_part",
     "name": { "str": "upgraded reinforced solar array" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   },
@@ -111,7 +101,6 @@
     "type": "vehicle_part",
     "name": { "str": "wiring" },
     "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
   }
