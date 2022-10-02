@@ -89,5 +89,14 @@
     "folded_volume": "250 ml",
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
+  },
+  {
+    "copy-from": "counterweight",
+    "id": "counterweight",
+    "type": "vehicle_part",
+    "looks_like": "hdhalfboard",
+    "folded_volume": "250 ml",
+    "folding_time": "1 seconds",
+    "unfolding_time": "1 seconds"
   }
 ]
