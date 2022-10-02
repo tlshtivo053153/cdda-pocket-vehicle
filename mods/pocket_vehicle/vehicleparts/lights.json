@@ -120,15 +120,5 @@
     "extend": { "flags": [ "FOLDABLE" ] },
     "folding_time": "1 seconds",
     "unfolding_time": "1 seconds"
-  },
-  {
-    "copy-from": "lit_aisle",
-    "id": "lit_aisle",
-    "type": "vehicle_part",
-    "name": { "str": "aisle with lights" },
-    "folded_volume": "250 ml",
-    "extend": { "flags": [ "FOLDABLE" ] },
-    "folding_time": "1 seconds",
-    "unfolding_time": "1 seconds"
   }
 ]
